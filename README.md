@@ -12,6 +12,11 @@
 [<img align="left" alt="Phat | LinkedIn" height="25px" src="./SocialLogo/Linkedin.png" />][linkedin]
 [<img align="left" alt="Phat | Facebook" height="25px" src="./SocialLogo/Facebook.png" />][facebook]
 
+<br />
+<p align=center>
+<em>Don't hesitate to get in touch!</em>
+</p>
+
 ---
 
 [gmail]: phatnguyen080401@gmail.com
