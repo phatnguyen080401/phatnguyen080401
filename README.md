@@ -1,8 +1,5 @@
 ### Hi there, I'm Thanh Phat 👋
 
-<!--
-**phatnguyen080401/phatnguyen080401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology and Education
 - 🌱 I’m currently learning Data Engineer
 - 📫 How to reach me: phatnguyen080401@gmail.com
