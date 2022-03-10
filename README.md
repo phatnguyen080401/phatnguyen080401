@@ -7,10 +7,10 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Phat | Gmail" height="25px" src="./SocialLogo/Gmail.png" />][gmail]
-[<img align="left" alt="Phat | Github" height="25px" src="./SocialLogo/Github.png" />][github]
-[<img align="left" alt="Phat | LinkedIn" height="25px" src="./SocialLogo/Linkedin.png" />][linkedin]
-[<img align="left" alt="Phat | Facebook" height="25px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" alt="Phat | Gmail" height="30px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Phat | Github" height="30px" src="./SocialLogo/Github.png" />][github]
+[<img align="left" alt="Phat | LinkedIn" height="30px" src="./SocialLogo/Linkedin.png" />][linkedin]
+[<img align="left" alt="Phat | Facebook" height="30px" src="./SocialLogo/Facebook.png" />][facebook]
 
 <br />
 <p align=center>
