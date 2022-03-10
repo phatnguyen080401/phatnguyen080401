@@ -30,8 +30,6 @@
 
 ---
 
-
-
 [gmail]: phatnguyen080401@gmail.com
 [github]: https://github.com/phatnguyen080401
 [linkedin]: https://www.linkedin.com/in/th%C3%A0nh-ph%C3%A1t-nguy%E1%BB%85n-0bba27217/
