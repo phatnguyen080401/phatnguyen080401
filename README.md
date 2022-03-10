@@ -5,7 +5,7 @@
 - 📫 How to reach me: phatnguyen080401@gmail.com
 - ⚡ Fun fact: I love to learn new Big Data tools 
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### Connect with me:
 
 [<img align="left" alt="Phat | Gmail" height="30px" src="./SocialLogo/Gmail.png" />][gmail]
 [<img align="left" alt="Phat | Github" height="30px" src="./SocialLogo/Github.png" />][github]
@@ -18,6 +18,19 @@
 </p>
 
 ---
+
+### Languages:
+
+[<code>
+<img alt="python" width="30px" src="https://img.icons8.com/nolan/96/python.png">
+</code>](https://www.python.org/)
+[<code>
+<img alt="scala" width="30px" src="https://img.icons8.com/dusk/64/000000/scala.png">
+</code>](https://www.scala-lang.org/)
+
+---
+
+
 
 [gmail]: phatnguyen080401@gmail.com
 [github]: https://github.com/phatnguyen080401
