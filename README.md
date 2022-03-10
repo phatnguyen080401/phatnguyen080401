@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Thanh Phat 👋
 
 <!--
 **phatnguyen080401/phatnguyen080401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying at Ho Chi Minh City University of Technology and Education
+- 🌱 I’m currently learning Data Engineer
+- 📫 How to reach me: phatnguyen080401@gmail.com
+- ⚡ Fun fact: I love to learn new Big Data tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
+[<img align="left" alt="Phat | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Phat | Github" height="22px" src="./SocialLogo/Github.png" />][github]
+[<img align="left" alt="Phat | LinkedIn" height="22px" src="./SocialLogo/Linkedin.png" />][linkedin]
+[<img align="left" alt="Phat | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+
