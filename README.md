@@ -39,6 +39,18 @@
 [<code>
 <img alt="dbt" height="40" src="./Icons/dbt-tool.png">
 </code>](https://www.getdbt.com/)
+[<code>
+<img alt="cassandra" height="40" src="./Icons/apache-cassandra.png">
+</code>](https://cassandra.apache.org/)
+[<code>
+<img alt="mysql" height="40" src="https://img.icons8.com/color/96/000000/mysql-logo.png">
+</code>](https://dev.mysql.com/)
+[<code>
+<img alt="mongodb" height="40" src="https://img.icons8.com/color/96/000000/mongodb.png">
+</code>](https://www.mongodb.com/)
+[<code>
+<img alt="snowflake" height="40" src="./Icons/snowflake.png">
+</code>](https://www.snowflake.com/)
 ---
 
 [gmail]: phatnguyen080401@gmail.com
