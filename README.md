@@ -12,8 +12,8 @@
 [<img align="left" alt="Phat | LinkedIn" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
 [<img align="left" alt="Phat | Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
 
-<!-- <br />
-<p align=center>
+<br />
+<!-- <p align=center>
 <em>Don't hesitate to get in touch!</em>
 </p> -->
 ---
