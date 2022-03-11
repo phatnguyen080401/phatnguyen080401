@@ -22,22 +22,22 @@
 ### Languages and Tools:
 
 [<code>
-<img alt="python" height="30" src="https://img.icons8.com/color/96/000000/python--v1.png">
+<img alt="python" height="40" src="https://img.icons8.com/color/96/000000/python--v1.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="scala" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-color-tal-revivo.png">
+<img alt="scala" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-color-tal-revivo.png">
 </code>](https://www.scala-lang.org/)
 [<code>
-<img alt="kafka" height="30" src="./Icons/apache-kafka.png">
+<img alt="kafka" height="40" src="./Icons/apache-kafka.png">
 </code>](https://kafka.apache.org/)
 [<code>
-<img alt="spark" height="35" src="./Icons/apache-spark.png">
+<img alt="spark" height="40" src="./Icons/apache-spark.png">
 </code>](https://spark.apache.org/)
 [<code>
-<img alt="airflow" height="30" src="./Icons/apache-airflow.png">
+<img alt="airflow" height="40" src="./Icons/apache-airflow.png">
 </code>](https://airflow.apache.org/)
 [<code>
-<img alt="dbt" height="30" src="./Icons/dbt-tool.png">
+<img alt="dbt" height="40" src="./Icons/dbt-tool.png">
 </code>](https://www.getdbt.com/)
 ---
 
