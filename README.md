@@ -28,9 +28,6 @@
 <img alt="scala" width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-color-tal-revivo.png">
 </code>](https://www.scala-lang.org/)
 [<code>
-<img alt="kafka" width="30px" src="./Icons/apache-kafka-icon.png">
-</code>](https://kafka.apache.org/)
-[<code>
 <img alt="kafka" width="30px" src="./Icons/apache-kafka.png">
 </code>](https://kafka.apache.org/)
 [<code>
