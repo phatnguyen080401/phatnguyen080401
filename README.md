@@ -32,7 +32,7 @@
 <img alt="airflow" height="40" src="./Icons/apache-airflow.png">
 </code>](https://airflow.apache.org/)
 [<code>
-<img alt="dbt" height="40" src="./Icons/dbt-tool.png">
+<img alt="dbt" height="40" src="./Icons/dbt.png">
 </code>](https://www.getdbt.com/)
 [<code>
 <img alt="cassandra" height="40" src="./Icons/apache-cassandra.png">
