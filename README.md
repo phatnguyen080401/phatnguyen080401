@@ -101,14 +101,10 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=phatnguyen080401&background=30,0ff1ce,904e95&hide_border=true" alt="phatnguyen080401" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=phatnguyen080401&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen080401&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&langs_count=8&layout=compact&hide_border=true" />
