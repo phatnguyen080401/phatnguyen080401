@@ -114,7 +114,7 @@
 
 <h2 align="center">:octocat: Repositories :octocat:</h2>
 <br>
-<table style="margin-left:auto; margin-right:auto;">
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
