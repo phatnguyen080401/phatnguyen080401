@@ -7,70 +7,70 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Phat | Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
-[<img align="left" alt="Phat | Github" height="40px" src="./SocialLogo/Github.png" />][github]
-[<img align="left" alt="Phat | LinkedIn" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
-[<img align="left" alt="Phat | Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" title="Gmail | Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" title="Github | Github" height="40px" src="./SocialLogo/Github.png" />][github]
+[<img align="left" title="Linkedin | LinkedIn" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
+[<img align="left" title="Facebook | Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
 
 <br />
 
 ### Languages and Tools:
 
 [<code>
-<img title="python" height="35" src="https://img.icons8.com/color/96/000000/python--v1.png">
+<img title="Python" height="35" src="https://img.icons8.com/color/96/000000/python--v1.png">
 </code>](https://www.python.org/)
 [<code>
-<img title="scala" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-color-tal-revivo.png">
+<img title="Scala" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-color-tal-revivo.png">
 </code>](https://www.scala-lang.org/)
 [<code>
-<img title="kafka" height="35" src="./Icons/apache-kafka.png">
+<img title="Apche Kafka" height="35" src="./Icons/apache-kafka.png">
 </code>](https://kafka.apache.org/)
 [<code>
-<img title="spark" height="35" src="./Icons/apache-spark.png">
+<img title="Apche Spark" height="35" src="./Icons/apache-spark.png">
 </code>](https://spark.apache.org/)
 [<code>
-<img title="airflow" height="35" src="./Icons/apache-airflow.png">
+<img title="Apche Airflow" height="35" src="./Icons/apache-airflow.png">
 </code>](https://airflow.apache.org/)
 [<code>
 <img title="dbt" height="35" src="./Icons/dbt.png">
 </code>](https://www.getdbt.com/)
 [<code>
-<img title="cassandra" height="35" src="./Icons/apache-cassandra.png">
+<img title="Apche Cassandra" height="35" src="./Icons/apache-cassandra.png">
 </code>](https://cassandra.apache.org/)
 [<code>
-<img title="mysql" height="35" src="https://img.icons8.com/color/96/000000/mysql-logo.png">
+<img title="Mysql" height="35" src="https://img.icons8.com/color/96/000000/mysql-logo.png">
 </code>](https://dev.mysql.com/)
 [<code>
-<img title="mongodb" height="35" src="https://img.icons8.com/color/96/000000/mongodb.png">
+<img title="Mongodb" height="35" src="https://img.icons8.com/color/96/000000/mongodb.png">
 </code>](https://www.mongodb.com/)
 [<code>
-<img title="snowflake" height="35" src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-snowflake-winter-photo3ideastudio-flat-photo3ideastudio-1.png">
+<img title="Snowflake" height="35" src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-snowflake-winter-photo3ideastudio-flat-photo3ideastudio-1.png">
 </code>](https://www.snowflake.com/)
 [<code>
-<img title="docker" height="35" src="https://img.icons8.com/color/96/000000/docker.png">
+<img title="Docker" height="35" src="https://img.icons8.com/color/96/000000/docker.png">
 </code>](https://www.docker.com/)
 [<code>
-<img title="vscode" height="35" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png">
+<img title="VScode" height="35" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png">
 </code>](https://code.visualstudio.com/)
 [<code>
 <img title="Git" height="35" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img title="github" height="35" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+<img title="Github" height="35" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
-<img title="terminal" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img title="Terminal" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
 
 [<code>
-<img title="windows" height="35" src="https://img.icons8.com/color/240/000000/windows-10.png">
+<img title="Windows" height="35" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 [<code>
-<img title="ubuntu" height="35" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+<img title="Ubuntu" height="35" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
 [<code>
-<img title="linux" height="35" src="https://img.icons8.com/color/96/000000/linux.png">
+<img title="Linux" height="35" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
 
