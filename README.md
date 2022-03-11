@@ -36,6 +36,7 @@
 </p>
 
 <hr>
+
 <h2 align="center">Languages and Tools</h2>
 <br>
 <p align="center">
@@ -95,9 +96,10 @@
     <a href="https://www.kernel.org//"><img title="Linux" height="35" src="https://img.icons8.com/color/96/000000/linux.png"></a>
   </code>
 </p>
+
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ My Github Stats ⚡</h2>
 <br>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -108,3 +110,47 @@
   </a>
 </p>
 
+<hr>
+
+<h2 align="center">:octocat: Repositories :octocat:</h2>
+<br>
+<table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/phatnguyen080401/Lambda-architecture"><b>🚀 Gitwar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/phatnguyen080401/Lambda-architecture?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/phatnguyen080401/Lambda-architecture?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/phatnguyen080401/Lambda-architecture?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phatnguyen080401/Lambda-architecture?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/phatnguyen080401/Lambda-architecture?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/phatnguyen080401/Cryptocurrencies-Prediction"><b>💸 TradeByte</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/phatnguyen080401/Cryptocurrencies-Prediction?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/phatnguyen080401/Cryptocurrencies-Prediction?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/phatnguyen080401/Cryptocurrencies-Prediction?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phatnguyen080401/Cryptocurrencies-Prediction?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/phatnguyen080401/Cryptocurrencies-Prediction?label=javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/phatnguyen080401/Coin-Market-Analysis"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/phatnguyen080401/Coin-Market-Analysis?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/phatnguyen080401/Coin-Market-Analysis?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/phatnguyen080401/Coin-Market-Analysis?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/phatnguyen080401/Coin-Market-Analysis?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/phatnguyen080401/Coin-Market-Analysis?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
