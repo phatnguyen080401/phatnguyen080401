@@ -31,7 +31,7 @@
 <img alt="kafka" height="30" src="./Icons/apache-kafka.png">
 </code>](https://kafka.apache.org/)
 [<code>
-<img alt="spark" height="30" src="./Icons/apache-spark.png">
+<img alt="spark" height="35" src="./Icons/apache-spark.png">
 </code>](https://spark.apache.org/)
 [<code>
 <img alt="airflow" height="30" src="./Icons/apache-airflow.png">
