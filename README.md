@@ -7,10 +7,10 @@
 
 ### Connect with me:
 
-[<img align="left" title="Gmail | Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
-[<img align="left" title="Github | Github" height="40px" src="./SocialLogo/Github.png" />][github]
-[<img align="left" title="Linkedin | LinkedIn" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
-[<img align="left" title="Facebook | Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" title="Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" title="Github" height="40px" src="./SocialLogo/Github.png" />][github]
+[<img align="left" title="Linkedin" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
+[<img align="left" title="Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
 
 <br />
 
