@@ -101,10 +101,10 @@
 <br>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=phatnguyen080401&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide_border=true" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=phatnguyen080401&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen080401&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&langs_count=8&layout=compact&hide_border=true" />
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen080401&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&langs_count=8&layout=compact&hide_border=true" />
   </a>
 </p>
 
