@@ -20,10 +20,20 @@
 <hr>
 <h2 align="center">Connect with me</h2>
 <br>
-  [<img align="center" title="Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
-  [<img align="center" title="Github" height="40px" src="./SocialLogo/Github.png" />][github]
-  [<img align="center" title="Linkedin" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
-  [<img align="center" title="Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
+<p align="center">
+  <code>
+    <a href="phatnguyen080401@gmail.com"><img title="Gmail" height="40px" src="./SocialLogo/Gmail.png" /></a>
+  </code>
+  <code>
+    <a href="https://github.com/phatnguyen080401"><img title="Github" height="40px" src="./SocialLogo/Github.png" /></a>
+  </code>
+  <code>
+    <a href="https://www.linkedin.com/in/th%C3%A0nh-ph%C3%A1t-nguy%E1%BB%85n-0bba27217/"><img title="Linkedin" height="40px" src="./SocialLogo/Linkedin.png" /></a>
+  </code>
+  <code>
+    <a href="https://www.facebook.com/thanhphat.nguyen.182/"><img title="Facebook" height="40px" src="./SocialLogo/Facebook.png" /></a>
+  </code>
+</p>
 <hr>
 
 <h2 align="center">Languages and Tools</h2>
@@ -85,7 +95,7 @@
 </code>](https://www.kernel.org/)
 
 
-[gmail]: phatnguyen080401@gmail.com
+<!-- [gmail]: phatnguyen080401@gmail.com
 [github]: https://github.com/phatnguyen080401
 [linkedin]: https://www.linkedin.com/in/th%C3%A0nh-ph%C3%A1t-nguy%E1%BB%85n-0bba27217/
-[facebook]: https://www.facebook.com/thanhphat.nguyen.182/
+[facebook]: https://www.facebook.com/thanhphat.nguyen.182/ -->
