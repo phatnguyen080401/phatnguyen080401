@@ -7,16 +7,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Phat | Gmail" height="30px" src="./SocialLogo/Gmail.png" />][gmail]
-[<img align="left" alt="Phat | Github" height="30px" src="./SocialLogo/Github.png" />][github]
-[<img align="left" alt="Phat | LinkedIn" height="30px" src="./SocialLogo/Linkedin.png" />][linkedin]
-[<img align="left" alt="Phat | Facebook" height="30px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" alt="Phat | Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Phat | Github" height="40px" src="./SocialLogo/Github.png" />][github]
+[<img align="left" alt="Phat | LinkedIn" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
+[<img align="left" alt="Phat | Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
 
-<br />
+<!-- <br />
 <p align=center>
 <em>Don't hesitate to get in touch!</em>
-</p>
-
+</p> -->
 ---
 
 ### Languages and Tools:
@@ -49,7 +48,7 @@
 <img alt="mongodb" height="40" src="https://img.icons8.com/color/96/000000/mongodb.png">
 </code>](https://www.mongodb.com/)
 [<code>
-<img alt="snowflake" height="40" src="./Icons/snowflake.png">
+<img alt="snowflake" height="40" src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-snowflake-winter-photo3ideastudio-flat-photo3ideastudio-1.png">
 </code>](https://www.snowflake.com/)
 ---
 
