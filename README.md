@@ -6,22 +6,28 @@
   </a>
 </h1>
 
-- 🔭 I’m currently studying at Ho Chi Minh City University of Technology and Education
-- 🌱 I’m currently learning Data Engineer
-- 📫 How to reach me: phatnguyen080401@gmail.com
-- ⚡ Fun fact: I love to learn new Big Data technologies 
+<p align="center">
+  <br>
+    🔭 I’m currently studying at Ho Chi Minh City University of Technology and Education
+  <br>
+    💻 I’m currently learning Data Engineer
+  <br>
+    📫 How to reach me: phatnguyen080401@gmail.com
+  <br>
+    ⚡ Fun fact: I love to learn new Big Data technologies 
+</p>
 
-### Connect with me:
+<hr>
+<h2 align="center">Connect with me</h2>
+<br>
+[<img align="center" title="Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="center" title="Github" height="40px" src="./SocialLogo/Github.png" />][github]
+[<img align="center" title="Linkedin" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
+[<img align="center" title="Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
+<hr>
 
-[<img align="left" title="Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
-[<img align="left" title="Github" height="40px" src="./SocialLogo/Github.png" />][github]
-[<img align="left" title="Linkedin" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
-[<img align="left" title="Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
-
-<br />
-
-### Languages and Tools:
-
+<h2 align="center">Languages and Tools</h2>
+<br>
 [<code>
 <img title="Python" height="35" src="https://img.icons8.com/color/96/000000/python--v1.png">
 </code>](https://www.python.org/)
@@ -67,8 +73,7 @@
 [<code>
 <img title="Terminal" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
-
+<br>
 [<code>
 <img title="Windows" height="35" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
