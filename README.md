@@ -12,6 +12,7 @@
 [<img align="left" alt="Phat | LinkedIn" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
 [<img align="left" alt="Phat | Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
 
+<br />
 
 ### Languages and Tools:
 
