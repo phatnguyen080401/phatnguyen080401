@@ -20,12 +20,10 @@
 <hr>
 <h2 align="center">Connect with me</h2>
 <br>
-<p align="center">
-  [<img title="Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
-  [<img title="Github" height="40px" src="./SocialLogo/Github.png" />][github]
-  [<img title="Linkedin" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
-  [<img title="Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
-</p>
+  [<img align="center" title="Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
+  [<img align="center" title="Github" height="40px" src="./SocialLogo/Github.png" />][github]
+  [<img align="center" title="Linkedin" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
+  [<img align="center" title="Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
 <hr>
 
 <h2 align="center">Languages and Tools</h2>
