@@ -49,7 +49,7 @@
 <img alt="mongodb" height="40" src="https://img.icons8.com/color/96/000000/mongodb.png">
 </code>](https://www.mongodb.com/)
 [<code>
-<img alt="snowflake" height="40" src="./Icons/snowflake.png">
+<img alt="snowflake" height="40" src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-snowflake-winter-photo3ideastudio-flat-photo3ideastudio-1.png">
 </code>](https://www.snowflake.com/)
 ---
 
