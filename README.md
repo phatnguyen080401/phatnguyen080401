@@ -12,12 +12,6 @@
 [<img align="left" alt="Phat | LinkedIn" height="40px" src="./SocialLogo/Linkedin.png" />][linkedin]
 [<img align="left" alt="Phat | Facebook" height="40px" src="./SocialLogo/Facebook.png" />][facebook]
 
-<br />
-<!-- <p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p> -->
----
-
 ### Languages and Tools:
 
 [<code>
@@ -50,7 +44,7 @@
 [<code>
 <img alt="snowflake" height="40" src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-snowflake-winter-photo3ideastudio-flat-photo3ideastudio-1.png">
 </code>](https://www.snowflake.com/)
----
+
 
 [gmail]: phatnguyen080401@gmail.com
 [github]: https://github.com/phatnguyen080401
