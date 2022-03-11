@@ -46,6 +46,29 @@
 [<code>
 <img alt="snowflake" height="40" src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-snowflake-winter-photo3ideastudio-flat-photo3ideastudio-1.png">
 </code>](https://www.snowflake.com/)
+[<code>
+<img alt="docker" height="40" src="https://img.icons8.com/color/96/000000/docker.png">
+</code>](https://www.docker.com/)
+[<code>
+<img alt="vscode" height="40" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png">
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="Git" height="40" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+[<code>
+<img alt="github" height="40" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>](https://github.com/)
+
+<br />
+[<code>
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+</code>](https://www.microsoft.com/en-us/windows)
+[<code>
+<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+</code>](https://ubuntu.com/)
+[<code>
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</code>](https://www.kernel.org/)
 
 
 [gmail]: phatnguyen080401@gmail.com
