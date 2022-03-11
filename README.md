@@ -1,4 +1,10 @@
-### Hi there, I'm Thanh Phat 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=phatnguyen080401&color=blueviolet">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Thanh+Phat....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology and Education
 - 🌱 I’m currently learning Data Engineer
