@@ -127,7 +127,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/phatnguyen080401/Lambda-architecture"><b>🚀 Gitwar</b></a></td>
+	      <td><a href="https://github.com/phatnguyen080401/Lambda-architecture"><b>⛄ Lambda Architecture</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/phatnguyen080401/Lambda-architecture?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/phatnguyen080401/Lambda-architecture?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/phatnguyen080401/Lambda-architecture?style=flat-square"/></td>
@@ -135,7 +135,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/phatnguyen080401/Lambda-architecture?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/phatnguyen080401/Cryptocurrencies-Prediction"><b>💸 TradeByte</b></a></td>
+	      <td><a href="https://github.com/phatnguyen080401/Cryptocurrencies-Prediction"><b>💸 Cryptocurrencies Prediction</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/phatnguyen080401/Cryptocurrencies-Prediction?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/phatnguyen080401/Cryptocurrencies-Prediction?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/phatnguyen080401/Cryptocurrencies-Prediction?style=flat-square"/></td>
@@ -143,7 +143,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/phatnguyen080401/Cryptocurrencies-Prediction?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/phatnguyen080401/Coin-Market-Analysis"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+	      <td><a href="https://github.com/phatnguyen080401/Coin-Market-Analysis"><b>💰 Coin Market Analysis</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/phatnguyen080401/Coin-Market-Analysis?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/phatnguyen080401/Coin-Market-Analysis?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/phatnguyen080401/Coin-Market-Analysis?style=flat-square"/></td>
