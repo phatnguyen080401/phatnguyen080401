@@ -62,13 +62,13 @@
 <br />
 
 [<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+<img alt="windows" height="40" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 [<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+<img alt="ubuntu" height="40" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
 [<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+<img alt="linux" height="40" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
 
