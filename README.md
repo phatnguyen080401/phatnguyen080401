@@ -162,7 +162,7 @@
 <hr>
 
 <p align="center">
-  <img src="./Gifs/cat.gif" width="100">
+  <img src="./Gifs/cat.gif" width="350">
 
 
 <div align="center">
