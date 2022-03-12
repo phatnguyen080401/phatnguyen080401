@@ -108,6 +108,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen080401&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&langs_count=8&layout=compact&hide_border=true" />
   </a>
+
+  <img src="https://imgur.com/a/n96pNtT" width="500">
+  <img src="https://raw.githubusercontent.com/phatnguyen080401/phatnguyen080401/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
 <hr>
