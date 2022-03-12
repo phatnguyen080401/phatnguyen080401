@@ -109,9 +109,8 @@
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen080401&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&langs_count=8&layout=compact&hide_border=true" />
   </a>
   <br>
-  <img src="./gifs/text.gif" width="500">
-  <br>
-  <a href="https://ubuntu.com/">
+  <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+  <br><br><br>
   <img src="https://raw.githubusercontent.com/phatnguyen080401/phatnguyen080401/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
