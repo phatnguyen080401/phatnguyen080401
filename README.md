@@ -48,19 +48,19 @@
     <img title="Scala" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-color-tal-revivo.png">
   </a>
   <a href="https://kafka.apache.org/">
-    <img title="Apche Kafka" height="35" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/icons/apache-kafka.png">
+    <img title="Apche Kafka" height="35" src="./icon/apache-kafka.png">
     </a>
   <a href="https://spark.apache.org/">
-    <img title="Apche Spark" height="35" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/icons/apache-spark.png">
+    <img title="Apche Spark" height="35" src="./icon/apache-spark.png">
   </a>
   <a href="https://airflow.apache.org/">
-    <img title="Apche Airflow" height="35" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/icons/apache-airflow.png">
+    <img title="Apche Airflow" height="35" src="./icon/apache-airflow.png">
   </a>
   <a href="https://www.getdbt.com/">
-    <img title="dbt" height="35" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/icons/dbt.png">
+    <img title="dbt" height="35" src="./icon/dbt.png">
   </a>
   <a href="https://cassandra.apache.org/">
-    <img title="Apche Cassandra" height="35" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/icons/apache-cassandra.png">
+    <img title="Apche Cassandra" height="35" src="./icon/apache-cassandra.png">
   </a>
   <a href="https://dev.mysql.com/">
     <img title="Mysql" height="35" src="https://img.icons8.com/color/96/000000/mysql-logo.png">
@@ -95,7 +95,7 @@
 ![separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
 
 <p align="center">
-  <img src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/gifs/cat.gif" width="400">
+  <img src="./gif/cat.gif" width="400">
 
 
 <div align="center">
