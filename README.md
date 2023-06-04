@@ -36,7 +36,7 @@
 
 </p>
 
-<hr>
+![separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
 
 <h2 align="center">Languages and Tools</h2>
 <br>
@@ -76,7 +76,7 @@
   </a>
 </p>
 
-<hr>
+![separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
 
 <h2 align="center">⚡ My Github Stats ⚡</h2>
 <br>
@@ -85,13 +85,14 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=phatnguyen080401&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide_border=true" />
   </a>
 
-<hr>
+![separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
+
   <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
   <br>
   <img src="https://raw.githubusercontent.com/phatnguyen080401/phatnguyen080401/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
-<hr>
+![separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
 
 <p align="center">
   <img src="./gifs/cat.gif" width="400">
