@@ -47,7 +47,7 @@
   <a href="https://www.scala-lang.org/">
     <img title="Scala" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-color-tal-revivo.png">
   </a>
-  <a href="https://kafka.apache.org//">
+  <a href="https://kafka.apache.org/">
     <img title="Apche Kafka" height="35" src="./icons/apache-kafka.png">
     </a>
   <a href="https://spark.apache.org/">
