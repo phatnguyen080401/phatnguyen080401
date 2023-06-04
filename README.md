@@ -22,16 +22,16 @@
 <br>
 <p align="center">
   <code>
-    <a href="phatnguyen080401@gmail.com"><img title="Gmail" height="40px" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Gmail.png" /></a>
+    <a href="phatnguyen080401@gmail.com"><img title="Gmail" height="40" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Gmail.png" /></a>
   </code>
   <code>
-    <a href="https://github.com/phatnguyen080401"><img title="Github" height="40px" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Github.png" /></a>
+    <a href="https://github.com/phatnguyen080401"><img title="Github" height="40" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Github.png" /></a>
   </code>
   <code>
-    <a href="https://www.linkedin.com/in/th%C3%A0nh-ph%C3%A1t-nguy%E1%BB%85n-0bba27217/"><img title="Linkedin" height="40px" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Linkedin.png" /></a>
+    <a href="https://www.linkedin.com/in/phat-nguyen-0bba27217/"><img title="Linkedin" height="40" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Linkedin.png" /></a>
   </code>
   <code>
-    <a href="https://www.facebook.com/thanhphat.nguyen.182/"><img title="Facebook" height="40px" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Facebook.png" /></a>
+    <a href="https://www.facebook.com/thanhphat.nguyen.182/"><img title="Facebook" height="40" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Facebook.png" /></a>
   </code>
 </p>
 
