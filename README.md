@@ -87,6 +87,7 @@
 
 ![separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
 
+<p align=center>
   <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
   <br>
   <img src="https://raw.githubusercontent.com/phatnguyen080401/phatnguyen080401/output/github-contribution-grid-snake.svg" width="100%">
