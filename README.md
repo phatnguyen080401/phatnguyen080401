@@ -22,16 +22,16 @@
 <br>
 <p align="center">
   <code>
-    <a href="phatnguyen080401@gmail.com"><img title="Gmail" height="30" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Gmail.png"/></a>
+    <a href="phatnguyen080401@gmail.com"></a><img title="Gmail" height="30" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Gmail.png"/>
   </code>
   <code>
-    <a href="https://github.com/phatnguyen080401"><img title="Github" height="30" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Github.png"/></a>
+    <a href="https://github.com/phatnguyen080401"></a><img title="Github" height="30" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Github.png"/>
   </code>
   <code>
-    <a href="https://www.linkedin.com/in/phat-nguyen-0bba27217/"><img title="Linkedin" height="30" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/phat-nguyen-0bba27217/"></a><img title="Linkedin" height="30" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Linkedin.png"/>
   </code>
   <code>
-    <a href="https://www.facebook.com/thanhphat.nguyen.182/"><img title="Facebook" height="30" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Facebook.png"/></a>
+    <a href="https://www.facebook.com/thanhphat.nguyen.182/"></a><img title="Facebook" height="30" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Facebook.png"/>
   </code>
 </p>
 
