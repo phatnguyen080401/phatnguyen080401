@@ -21,7 +21,7 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-  <a href="phatnguyen080401@gmail.com">
+  <a href="mailto:phatnguyen080401@gmail.com">
     <img title="Gmail" height="40px" src="https://github.com/phatnguyen080401/phatnguyen080401/blob/master/social_logo/Gmail.png" />
   </a>
   <a href="https://github.com/phatnguyen080401">
